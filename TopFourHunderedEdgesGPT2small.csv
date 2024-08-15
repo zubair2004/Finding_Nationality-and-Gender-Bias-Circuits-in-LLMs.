@@ -1,4 +1,4 @@
-gpt2_small_pos,gpt2_small_neg,gpt2_small_pos_DSS2,gpt2_small_neg_DSS2
+gpt2_small_pos_DSS1,gpt2_small_neg_DSS1,gpt2_small_pos_DSS2,gpt2_small_neg_DSS2
 m11->logits,m11->logits,m11->logits,m11->logits
 m0->m2,m0->m1,m0->m2,m0->m2
 m0->m1,m0->m2,m9->logits,m0->m1
