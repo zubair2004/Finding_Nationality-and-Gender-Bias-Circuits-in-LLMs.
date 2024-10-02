@@ -1,4 +1,4 @@
-gpt2_small_pos_DSSS1,gpt2_small_neg_DSS1,gpt2_small_pos_DSS2,gpt2_small_neg_DSS2,gpt2_small_MB_GSS1,gpt2_small_FB_GSS1,gpt2_small_MB_GSS2,gpt2_small_FB_GSS2
+gpt2_small_pos_DSS1,gpt2_small_neg_DSS1,gpt2_small_pos_DSS2,gpt2_small_neg_DSS2,gpt2_small_MB_GSS1,gpt2_small_FB_GSS1,gpt2_small_MB_GSS2,gpt2_small_FB_GSS2
 m11->logits,m11->logits,input->a0.h5<k>,input->a0.h5<k>,input->m0,input->m0,input->m0,input->m0
 m0->m2,m0->m2,input->m0,input->m0,input->a0.h5<k>,input->a0.h5<k>,input->a0.h5<k>,input->a0.h5<k>
 a11.h0->logits,m0->m1,input->a0.h5<q>,input->a0.h5<q>,input->a0.h5<q>,m11->logits,input->a0.h5<q>,m11->logits
